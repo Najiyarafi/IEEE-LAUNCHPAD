@@ -12,8 +12,8 @@
 
 ### My Projects
 
-| Name                     | Description                                                        | Hosted Link                          | Repo Link                                                                                  |
-| ------------------------ | ------------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------------------------------------ |
+| Name                     | Description                                                        | Hosted Link                          | Repo Link    | 
+|  |  |  |  |
 | **Cloning Cafe Website** | Cloned a template of a cafe website                                | [Hosted Link 1](https://example.com) | [Repo Link 1](https://github.com/Najiyarafi/Cafe-Website.git)                              |
 | **Wet Floor Detection**  | Detection the presence of water on the floor using computer vision | [Hosted Link 2](https://example.com) | [Repo Link 2](https://github.com/Najiyarafi/Wet-floor-detection-using-computer-vision.git) |
 | **Forecasting hourly bike rental demand** | Combining historical usage patterns with weather data in order to forecast hourly bike rental demand using regression |     |     |
