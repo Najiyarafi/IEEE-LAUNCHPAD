@@ -1,4 +1,4 @@
-# IEEE LAUNCHPAD 
+
 # Najiya Rafi
 ## Aspiring Data Professional
 
