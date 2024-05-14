@@ -16,8 +16,8 @@
 | ------------------------ | ------------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------------------------------------ |
 | **Cloning Cafe Website** | Cloned a template of a cafe website                                | [Hosted Link 1](https://example.com) | [Repo Link 1](https://github.com/Najiyarafi/Cafe-Website.git)                              |
 | **Wet Floor Detection**  | Detection the presence of water on the floor using computer vision | [Hosted Link 2](https://example.com) | [Repo Link 2](https://github.com/Najiyarafi/Wet-floor-detection-using-computer-vision.git) |
-| **Forecasting hourly bike rental demand** | Combining historical usage patterns with weather data in order to forecast hourly bike rental demand using regression |
-|**ABC call volume analysis** | Analyzed large dataset using Python to find the trends in the call volume of customer experience team and visualized various insights derived from it using Tableau. |
+| **Forecasting hourly bike rental demand** | Combining historical usage patterns with weather data in order to forecast hourly bike rental demand using regression |     |     |
+|**ABC call volume analysis** | Analyzed large dataset using Python to find the trends in the call volume of customer experience team and visualized various insights derived from it using Tableau. |   |    |
 #### Leadership and Influence:
 
 - I am a good listener and possess good communication skill which I beleive is a trait of a good leader.
